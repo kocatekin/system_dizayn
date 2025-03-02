@@ -1,0 +1,3 @@
+isim: yusuf
+soyisim: ozdemir
+ogrenci_numarasi: 220309024
